@@ -1,0 +1,2018 @@
+{
+ "categories": [
+  "Apliques",
+  "Bermudas Caballero",
+  "Bermudas Dama",
+  "Bermudas Niño",
+  "Blusón Corto Dama",
+  "Confecciones",
+  "Otros",
+  "Pantalones Dama",
+  "Pantalones Niña",
+  "Servicio",
+  "Suéter Adulto",
+  "Suéter Niño",
+  "Telas"
+ ],
+ "products": [
+  {
+   "id": "aplique-alta-densidad",
+   "name": "Aplique Alta Densidad",
+   "category": "Apliques",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 23000,
+   "wholesaleFrom": 17000,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "aplique-importado",
+   "name": "Aplique Importado",
+   "category": "Apliques",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 15000,
+   "wholesaleFrom": 12000,
+   "stock": 469,
+   "variantCount": 1
+  },
+  {
+   "id": "aplique-importado-de-piedras",
+   "name": "Aplique Importado de Piedras",
+   "category": "Apliques",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 28000,
+   "wholesaleFrom": 23000,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "aplique-intervenido",
+   "name": "Aplique Intervenido",
+   "category": "Apliques",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 10000,
+   "wholesaleFrom": 8000,
+   "stock": 4204,
+   "variantCount": 1
+  },
+  {
+   "id": "aplique-intervenido-de-colombia",
+   "name": "Aplique Intervenido de Colombia",
+   "category": "Apliques",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 15000,
+   "wholesaleFrom": 12000,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "aplique-navideno",
+   "name": "Aplique Navideño",
+   "category": "Apliques",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 10000,
+   "wholesaleFrom": 8000,
+   "stock": 273,
+   "variantCount": 1
+  },
+  {
+   "id": "bermuda-caballero",
+   "name": "Bermuda Caballero",
+   "category": "Bermudas Caballero",
+   "colors": [
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Azul Bebé",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Gris Oscuro",
+     "hex": "#4a4d50"
+    },
+    {
+     "name": "Vinotinto",
+     "hex": "#5d1a24"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "priceFrom": 25000,
+   "wholesaleFrom": 18000,
+   "stock": 2373,
+   "variantCount": 85
+  },
+  {
+   "id": "bermuda-dama",
+   "name": "Bermuda Dama",
+   "category": "Bermudas Dama",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Azul Bebé",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Marron",
+     "hex": "#6b4630"
+    },
+    {
+     "name": "Barby",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Bandera",
+     "hex": "#f5c518"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Vinotinto",
+     "hex": "#5d1a24"
+    },
+    {
+     "name": "Amarillo Claro",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Oscuro",
+     "hex": "#4a4d50"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    }
+   ],
+   "sizes": [
+    "S/M",
+    "L/XL"
+   ],
+   "priceFrom": 22000,
+   "wholesaleFrom": 16000,
+   "stock": 707,
+   "variantCount": 57
+  },
+  {
+   "id": "bermuda-nino",
+   "name": "Bermuda Niño",
+   "category": "Bermudas Niño",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Azul Bebé",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Gris Oscuro",
+     "hex": "#4a4d50"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Fuscia",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Claro",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Plomo",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "2-4",
+    "6-8",
+    "10-12",
+    "14-16"
+   ],
+   "priceFrom": 17000,
+   "wholesaleFrom": 13000,
+   "stock": 1756,
+   "variantCount": 100
+  },
+  {
+   "id": "bluson-corto",
+   "name": "Blusón Corto",
+   "category": "Blusón Corto Dama",
+   "colors": [
+    {
+     "name": "Dama",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [],
+   "priceFrom": 15000,
+   "wholesaleFrom": 11500,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "bluson-corto-dama",
+   "name": "Blusón Corto Dama",
+   "category": "Blusón Corto Dama",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Cafe Claro",
+     "hex": "#a9825f"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Marron",
+     "hex": "#6b4630"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Amarillo Suave",
+     "hex": "#f3e3a3"
+    },
+    {
+     "name": "Amarillo Bandera",
+     "hex": "#f5c518"
+    },
+    {
+     "name": "Mostaza",
+     "hex": "#c9962c"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Azul Turquí",
+     "hex": "#1b2a4a"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Gris Ratón",
+     "hex": "#8d8f92"
+    },
+    {
+     "name": "Naranja",
+     "hex": "#e2703a"
+    },
+    {
+     "name": "Vinotinto",
+     "hex": "#5d1a24"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Terracota",
+     "hex": "#b4573c"
+    },
+    {
+     "name": "Verde Militar",
+     "hex": "#4b5320"
+    },
+    {
+     "name": "Verde Menta",
+     "hex": "#a8d9c2"
+    },
+    {
+     "name": "Verde Botella",
+     "hex": "#1e5240"
+    },
+    {
+     "name": "Morado",
+     "hex": "#6b3fa0"
+    },
+    {
+     "name": "Petroleo",
+     "hex": "#1f4a4f"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Verde Navidad",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Fuscia",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Beige",
+     "hex": "#e3d7c3"
+    },
+    {
+     "name": "Verde Manzana",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Verde Oceano",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Verde Neon",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Bebe",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Coral",
+     "hex": "#e2725b"
+    }
+   ],
+   "sizes": [],
+   "priceFrom": 15000,
+   "wholesaleFrom": 11500,
+   "stock": 1788,
+   "variantCount": 40
+  },
+  {
+   "id": "bluson-corto-oversize",
+   "name": "Blusón Corto Oversize",
+   "category": "Blusón Corto Dama",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [],
+   "priceFrom": 30000,
+   "wholesaleFrom": 25000,
+   "stock": 0,
+   "variantCount": 4
+  },
+  {
+   "id": "confeccion-bermuda-adulto",
+   "name": "Confección Bermuda Adulto",
+   "category": "Confecciones",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 2000,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "confeccion-bermudas-ninos",
+   "name": "Confección Bermudas Niños",
+   "category": "Confecciones",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 2000,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "confeccion-pantalon-angel-adulto",
+   "name": "Confección Pantalón Angel Adulto",
+   "category": "Confecciones",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 4000,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "confeccion-pantalon-angel-nino",
+   "name": "Confección Pantalón Angel Niño",
+   "category": "Confecciones",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 3500,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "confeccion-sueter-adulto",
+   "name": "Confección Sueter Adulto",
+   "category": "Confecciones",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 1700,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "confeccion-sueter-nino",
+   "name": "Confección Sueter Niño",
+   "category": "Confecciones",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 1200,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "flete-transporte",
+   "name": "Flete Transporte",
+   "category": "Otros",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 344900,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "servicio-de-planchado",
+   "name": "Servicio de Planchado",
+   "category": "Otros",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 1000,
+   "wholesaleFrom": 1000,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "venta-servicio-de-disenos-dtf",
+   "name": "Venta Servicio de Diseños DTF",
+   "category": "Otros",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 20000,
+   "wholesaleFrom": 15000,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "venta-simple",
+   "name": "Venta simple",
+   "category": "Otros",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": null,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "flete",
+   "name": "flete",
+   "category": "Otros",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 27000,
+   "wholesaleFrom": null,
+   "stock": 24,
+   "variantCount": 1
+  },
+  {
+   "id": "pantalon-angel-dama",
+   "name": "Pantalón Ángel Dama",
+   "category": "Pantalones Dama",
+   "colors": [
+    {
+     "name": "Talla Única",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Gris Plomo",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Marron",
+     "hex": "#6b4630"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Vinotinto",
+     "hex": "#5d1a24"
+    },
+    {
+     "name": "Amarillo Claro",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Barby",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Suave",
+     "hex": "#f3e3a3"
+    },
+    {
+     "name": "Gris Ratón",
+     "hex": "#8d8f92"
+    },
+    {
+     "name": "Fuscia",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Bebe",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "Talla única",
+    "L/XL"
+   ],
+   "priceFrom": 35000,
+   "wholesaleFrom": 29000,
+   "stock": 1812,
+   "variantCount": 42
+  },
+  {
+   "id": "pantalon-angel-nina",
+   "name": "Pantalón Ángel Niña",
+   "category": "Pantalones Niña",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Cafe Claro",
+     "hex": "#a9825f"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Azul Bebe",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Fuscia",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    }
+   ],
+   "sizes": [
+    "2-4",
+    "6-8",
+    "10-12",
+    "14-16"
+   ],
+   "priceFrom": 26000,
+   "wholesaleFrom": 22000,
+   "stock": 162,
+   "variantCount": 68
+  },
+  {
+   "id": "dtf-estampado",
+   "name": "DTF Estampado",
+   "category": "Servicio",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 5000,
+   "wholesaleFrom": 5000,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "sueter-adulto",
+   "name": "Suéter Adulto",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Amarillo",
+     "hex": "#f2cd3a"
+    },
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Petróleo",
+     "hex": "#1f4a4f"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Azul Bebé",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Ratón",
+     "hex": "#8d8f92"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Vino Tinto",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Terracota",
+     "hex": "#b4573c"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Morado",
+     "hex": "#6b3fa0"
+    },
+    {
+     "name": "Fucsia",
+     "hex": "#c62368"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Verde Policía",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Turquí",
+     "hex": "#1b2a4a"
+    },
+    {
+     "name": "Verde Botella",
+     "hex": "#1e5240"
+    },
+    {
+     "name": "Verde Navidad",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Bandera",
+     "hex": "#f5c518"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Verde Manzana",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Marrón Oscuro",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Naranja",
+     "hex": "#e2703a"
+    },
+    {
+     "name": "Mostaza",
+     "hex": "#c9962c"
+    },
+    {
+     "name": "Verde Menta",
+     "hex": "#a8d9c2"
+    },
+    {
+     "name": "Verde Oceano",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Neon",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Verde Neon",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Rosado Neón",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Naranja Neón",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Piel Durazno",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Coral",
+     "hex": "#e2725b"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Plomo",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L"
+   ],
+   "priceFrom": 10000,
+   "wholesaleFrom": 8000,
+   "stock": 8259,
+   "variantCount": 172
+  },
+  {
+   "id": "sueter-adulto-azul",
+   "name": "Suéter Adulto Azul",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Turquesa",
+     "hex": "#3aa7a8"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L"
+   ],
+   "priceFrom": 15000,
+   "wholesaleFrom": 12000,
+   "stock": 195,
+   "variantCount": 4
+  },
+  {
+   "id": "sueter-adulto-oversize",
+   "name": "Suéter Adulto Oversize",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L"
+   ],
+   "priceFrom": 30000,
+   "wholesaleFrom": 25000,
+   "stock": 1067,
+   "variantCount": 28
+  },
+  {
+   "id": "sueter-adulto-premium",
+   "name": "Suéter Adulto Premium",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L"
+   ],
+   "priceFrom": 14000,
+   "wholesaleFrom": 14000,
+   "stock": 0,
+   "variantCount": 4
+  },
+  {
+   "id": "sueter-cuello-tejido-colombia",
+   "name": "Suéter Cuello Tejido Colombia",
+   "category": "Suéter Adulto",
+   "colors": [],
+   "sizes": [
+    "S/M",
+    "L/XL",
+    "XS",
+    "Talla Única"
+   ],
+   "priceFrom": 25000,
+   "wholesaleFrom": 20000,
+   "stock": 0,
+   "variantCount": 4
+  },
+  {
+   "id": "sueter-grande",
+   "name": "Suéter Grande",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Amarillo",
+     "hex": "#f2cd3a"
+    },
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Petróleo",
+     "hex": "#1f4a4f"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Azul Bebé",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Ratón",
+     "hex": "#8d8f92"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Vino Tinto",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Terracota",
+     "hex": "#b4573c"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Morado",
+     "hex": "#6b3fa0"
+    },
+    {
+     "name": "Fucsia",
+     "hex": "#c62368"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Verde Policía",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Turquí",
+     "hex": "#1b2a4a"
+    },
+    {
+     "name": "Verde Botella",
+     "hex": "#1e5240"
+    },
+    {
+     "name": "Verde Navidad",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Bandera",
+     "hex": "#f5c518"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Verde Manzana",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Marrón Oscuro",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Naranja",
+     "hex": "#e2703a"
+    },
+    {
+     "name": "Mostaza",
+     "hex": "#c9962c"
+    },
+    {
+     "name": "Verde Menta",
+     "hex": "#a8d9c2"
+    },
+    {
+     "name": "Verde Oceano",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Neon",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Verde Neón",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Rosado Neón",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Naranja Neón",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Piel Durazno",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Coral",
+     "hex": "#e2725b"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Plomo",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "priceFrom": 10000,
+   "wholesaleFrom": 8000,
+   "stock": 1993,
+   "variantCount": 158
+  },
+  {
+   "id": "sueter-grande-azul",
+   "name": "Suéter Grande Azul",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Turquesa",
+     "hex": "#3aa7a8"
+    }
+   ],
+   "sizes": [
+    "XL",
+    "XXL"
+   ],
+   "priceFrom": 15000,
+   "wholesaleFrom": 12500,
+   "stock": 26,
+   "variantCount": 3
+  },
+  {
+   "id": "sueter-grande-oversize",
+   "name": "Suéter Grande Oversize",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "priceFrom": 30000,
+   "wholesaleFrom": 25000,
+   "stock": 380,
+   "variantCount": 28
+  },
+  {
+   "id": "sueter-grande-premium",
+   "name": "Suéter Grande Premium",
+   "category": "Suéter Adulto",
+   "colors": [
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    }
+   ],
+   "sizes": [
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "priceFrom": 14500,
+   "wholesaleFrom": 14500,
+   "stock": 0,
+   "variantCount": 4
+  },
+  {
+   "id": "sueter-nino",
+   "name": "Suéter Niño",
+   "category": "Suéter Niño",
+   "colors": [
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Amarillo",
+     "hex": "#f2cd3a"
+    },
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Petróleo",
+     "hex": "#1f4a4f"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Azul Bebé",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Ratón",
+     "hex": "#8d8f92"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Vino Tinto",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Terracota",
+     "hex": "#b4573c"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Morado",
+     "hex": "#6b3fa0"
+    },
+    {
+     "name": "Fucsia",
+     "hex": "#c62368"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Verde Policía",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Turquí",
+     "hex": "#1b2a4a"
+    },
+    {
+     "name": "Verde Botella",
+     "hex": "#1e5240"
+    },
+    {
+     "name": "Verde Navidad",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Amarillo Bandera",
+     "hex": "#f5c518"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Verde Manzana",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Marrón Oscuro",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Naranja",
+     "hex": "#e2703a"
+    },
+    {
+     "name": "Mostaza",
+     "hex": "#c9962c"
+    },
+    {
+     "name": "Verde Menta",
+     "hex": "#a8d9c2"
+    },
+    {
+     "name": "Verde Oceano",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Piel Durazno",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Coral",
+     "hex": "#e2725b"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Plomo",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "2-4",
+    "6-8",
+    "10-12",
+    "14-16"
+   ],
+   "priceFrom": 9000,
+   "wholesaleFrom": 7000,
+   "stock": 4518,
+   "variantCount": 195
+  },
+  {
+   "id": "sueter-nino-azul",
+   "name": "Suéter Niño Azul",
+   "category": "Suéter Niño",
+   "colors": [
+    {
+     "name": "Turquesa",
+     "hex": "#3aa7a8"
+    }
+   ],
+   "sizes": [
+    "2-4",
+    "6-8",
+    "10-12",
+    "14-16"
+   ],
+   "priceFrom": 10000,
+   "wholesaleFrom": 9000,
+   "stock": 19,
+   "variantCount": 5
+  },
+  {
+   "id": "sueter-nino-oversize",
+   "name": "Suéter Niño Oversize",
+   "category": "Suéter Niño",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Azul Celeste",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [
+    "2-4",
+    "6-8",
+    "10-12",
+    "14-16"
+   ],
+   "priceFrom": 25000,
+   "wholesaleFrom": 18000,
+   "stock": 211,
+   "variantCount": 35
+  },
+  {
+   "id": "rollos-elasticos-4mm",
+   "name": "Rollos Elásticos 4mm",
+   "category": "Telas",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 19000,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "rollos-elasticos-5mm",
+   "name": "Rollos Elásticos 5mm",
+   "category": "Telas",
+   "colors": [],
+   "sizes": [],
+   "priceFrom": 24000,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 1
+  },
+  {
+   "id": "rollos-de-tela",
+   "name": "Rollos de Tela",
+   "category": "Telas",
+   "colors": [
+    {
+     "name": "Burda",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Algodón Licrado",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [],
+   "priceFrom": 700000,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 2
+  },
+  {
+   "id": "rollos-de-tela-algodon-licrado",
+   "name": "Rollos de Tela Algodón Licrado",
+   "category": "Telas",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Cafe Claro",
+     "hex": "#a9825f"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Marron",
+     "hex": "#6b4630"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Amarillo Suave",
+     "hex": "#f3e3a3"
+    },
+    {
+     "name": "Amarillo Bandera",
+     "hex": "#f5c518"
+    },
+    {
+     "name": "Mostaza",
+     "hex": "#c9962c"
+    },
+    {
+     "name": "Azul Rey",
+     "hex": "#1f3f9c"
+    },
+    {
+     "name": "Azul Turquí",
+     "hex": "#1b2a4a"
+    },
+    {
+     "name": "Vainilla",
+     "hex": "#f0e6cd"
+    },
+    {
+     "name": "Blanco Hueso",
+     "hex": "#efe9dd"
+    },
+    {
+     "name": "Gris Claro",
+     "hex": "#cfd2d4"
+    },
+    {
+     "name": "Gris Ratón",
+     "hex": "#8d8f92"
+    },
+    {
+     "name": "Naranja",
+     "hex": "#e2703a"
+    },
+    {
+     "name": "Vinotinto",
+     "hex": "#5d1a24"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Terracota",
+     "hex": "#b4573c"
+    },
+    {
+     "name": "Verde Militar",
+     "hex": "#4b5320"
+    },
+    {
+     "name": "Verde Menta",
+     "hex": "#a8d9c2"
+    },
+    {
+     "name": "Verde Botella",
+     "hex": "#1e5240"
+    },
+    {
+     "name": "Morado",
+     "hex": "#6b3fa0"
+    },
+    {
+     "name": "Petroleo",
+     "hex": "#1f4a4f"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Verde Navidad",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Fuscia",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Beige",
+     "hex": "#e3d7c3"
+    },
+    {
+     "name": "Verde Manzana",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Verde Oceano",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Arena",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Palo Rosa",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Barbie",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Bebe",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Coral",
+     "hex": "#e2725b"
+    },
+    {
+     "name": "Azul Turquesa",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Gris Plomo",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [],
+   "priceFrom": 700000,
+   "wholesaleFrom": null,
+   "stock": 87,
+   "variantCount": 42
+  },
+  {
+   "id": "rollos-de-tela-burda",
+   "name": "Rollos de Tela Burda",
+   "category": "Telas",
+   "colors": [
+    {
+     "name": "Blanco",
+     "hex": "#ffffff"
+    },
+    {
+     "name": "Rojo",
+     "hex": "#c0392b"
+    },
+    {
+     "name": "Negro",
+     "hex": "#151515"
+    },
+    {
+     "name": "Azul Cielo",
+     "hex": "#a9cfe8"
+    },
+    {
+     "name": "Azul Agua",
+     "hex": "#7fc4c9"
+    },
+    {
+     "name": "Cafe Oscuro",
+     "hex": "#5b3d2b"
+    },
+    {
+     "name": "Rosado",
+     "hex": "#eaa9bb"
+    },
+    {
+     "name": "Lila",
+     "hex": "#b9a3d6"
+    },
+    {
+     "name": "Verde Oliva",
+     "hex": "#6f7442"
+    },
+    {
+     "name": "Guayaba",
+     "hex": "#e07a8a"
+    },
+    {
+     "name": "Camel",
+     "hex": "#c19a6b"
+    },
+    {
+     "name": "Kaki",
+     "hex": "#bda87c"
+    },
+    {
+     "name": "Cafe Claro",
+     "hex": "#a9825f"
+    },
+    {
+     "name": "Arena",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Palo Rosa",
+     "hex": "#b9b2a6"
+    },
+    {
+     "name": "Azul Bebe",
+     "hex": "#b9b2a6"
+    }
+   ],
+   "sizes": [],
+   "priceFrom": 700000,
+   "wholesaleFrom": null,
+   "stock": 0,
+   "variantCount": 16
+  }
+ ]
+}
