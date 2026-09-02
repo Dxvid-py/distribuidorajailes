@@ -13,6 +13,8 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as CalidadRouteImport } from './routes/calidad'
 import { Route as CatalogoRouteImport } from './routes/catalogo'
 import { Route as ContactoRouteImport } from './routes/contacto'
+import { Route as PersonalizaRouteImport } from './routes/personaliza'
+import { Route as ProductoSlugRouteImport } from './routes/producto.$slug'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -34,18 +36,32 @@ const ContactoRoute = ContactoRouteImport.update({
   path: '/contacto',
   getParentRoute: () => rootRouteImport,
 } as any)
+const PersonalizaRoute = PersonalizaRouteImport.update({
+  id: '/personaliza',
+  path: '/personaliza',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProductoSlugRoute = ProductoSlugRouteImport.update({
+  id: '/producto/$slug',
+  path: '/producto/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/calidad': typeof CalidadRoute
   '/catalogo': typeof CatalogoRoute
   '/contacto': typeof ContactoRoute
+  '/personaliza': typeof PersonalizaRoute
+  '/producto/$slug': typeof ProductoSlugRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/calidad': typeof CalidadRoute
   '/catalogo': typeof CatalogoRoute
   '/contacto': typeof ContactoRoute
+  '/personaliza': typeof PersonalizaRoute
+  '/producto/$slug': typeof ProductoSlugRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -53,13 +69,34 @@ export interface FileRoutesById {
   '/calidad': typeof CalidadRoute
   '/catalogo': typeof CatalogoRoute
   '/contacto': typeof ContactoRoute
+  '/personaliza': typeof PersonalizaRoute
+  '/producto/$slug': typeof ProductoSlugRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/calidad' | '/catalogo' | '/contacto'
+  fullPaths:
+    | '/'
+    | '/calidad'
+    | '/catalogo'
+    | '/contacto'
+    | '/personaliza'
+    | '/producto/$slug'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/calidad' | '/catalogo' | '/contacto'
-  id: '__root__' | '/' | '/calidad' | '/catalogo' | '/contacto'
+  to:
+    | '/'
+    | '/calidad'
+    | '/catalogo'
+    | '/contacto'
+    | '/personaliza'
+    | '/producto/$slug'
+  id:
+    | '__root__'
+    | '/'
+    | '/calidad'
+    | '/catalogo'
+    | '/contacto'
+    | '/personaliza'
+    | '/producto/$slug'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -67,6 +104,8 @@ export interface RootRouteChildren {
   CalidadRoute: typeof CalidadRoute
   CatalogoRoute: typeof CatalogoRoute
   ContactoRoute: typeof ContactoRoute
+  PersonalizaRoute: typeof PersonalizaRoute
+  ProductoSlugRoute: typeof ProductoSlugRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -99,6 +138,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ContactoRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/personaliza': {
+      id: '/personaliza'
+      path: '/personaliza'
+      fullPath: '/personaliza'
+      preLoaderRoute: typeof PersonalizaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/producto/$slug': {
+      id: '/producto/$slug'
+      path: '/producto/$slug'
+      fullPath: '/producto/$slug'
+      preLoaderRoute: typeof ProductoSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
@@ -107,6 +160,8 @@ const rootRouteChildren: RootRouteChildren = {
   CalidadRoute: CalidadRoute,
   CatalogoRoute: CatalogoRoute,
   ContactoRoute: ContactoRoute,
+  PersonalizaRoute: PersonalizaRoute,
+  ProductoSlugRoute: ProductoSlugRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
