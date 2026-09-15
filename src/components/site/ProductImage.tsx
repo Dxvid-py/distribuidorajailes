@@ -24,7 +24,7 @@ export function ProductImage({
 }: {
   src: string;
   alt: string;
-  hex?: string | null;
+  hex?: string | null | undefined;
   className?: string;
   imgClassName?: string;
   priority?: boolean;

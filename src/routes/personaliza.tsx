@@ -14,7 +14,7 @@ type Search = { producto?: string };
 
 export const Route = createFileRoute("/personaliza")({
   validateSearch: (search: Record<string, unknown>): Search => ({
-    producto: typeof search["producto"] === "string" ? search["producto"] : undefined,
+    ...(typeof search["producto"] === "string" ? { producto: search["producto"] } : {}),
   }),
   loader: () => getSiteData(),
   head: () => ({
@@ -69,11 +69,11 @@ function Personaliza() {
   }, [variants, color]);
 
   const message = waCustomMessage({
-    product: product?.name,
-    color: color || undefined,
-    size: size || undefined,
-    quantity: quantity || undefined,
-    idea: idea || undefined,
+    ...(product?.name ? { product: product.name } : {}),
+    ...(color ? { color } : {}),
+    ...(size ? { size } : {}),
+    ...(quantity ? { quantity } : {}),
+    ...(idea ? { idea } : {}),
   });
 
   const steps = [

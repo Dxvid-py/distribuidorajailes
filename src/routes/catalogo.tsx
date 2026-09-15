@@ -13,8 +13,8 @@ type CatalogSearch = { categoria?: string; q?: string };
 
 export const Route = createFileRoute("/catalogo")({
   validateSearch: (search: Record<string, unknown>): CatalogSearch => ({
-    categoria: typeof search["categoria"] === "string" ? search["categoria"] : undefined,
-    q: typeof search["q"] === "string" ? search["q"] : undefined,
+    ...(typeof search["categoria"] === "string" ? { categoria: search["categoria"] } : {}),
+    ...(typeof search["q"] === "string" ? { q: search["q"] } : {}),
   }),
   loader: () => getSiteData(),
   head: () => ({
@@ -70,7 +70,12 @@ function Catalogo() {
   }, [products, query, search.categoria]);
 
   const setCategoria = (slug?: string) =>
-    navigate({ search: (prev) => ({ ...prev, categoria: slug }) });
+    navigate({
+      search: (prev) => {
+        const { categoria: _categoria, ...rest } = prev;
+        return slug ? { ...rest, categoria: slug } : rest;
+      },
+    });
 
   return (
     <div className="mx-auto max-w-[1400px] px-5 pb-24 pt-14 sm:px-8">

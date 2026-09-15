@@ -1,7 +1,9 @@
 import { createServerFn } from "@tanstack/react-start";
 import { createClient } from "@supabase/supabase-js";
 
-export type SiteSettings = Record<string, unknown>;
+type JsonValue = string | number | boolean | null | JsonValue[] | { [key: string]: JsonValue };
+
+export type SiteSettings = Record<string, JsonValue>;
 
 export type ProductOverride = {
   id: string;
@@ -105,7 +107,7 @@ export const getSiteData = createServerFn({ method: "GET" }).handler(async (): P
   ]);
 
   const settingsMap: SiteSettings = {};
-  for (const row of settings.data ?? []) settingsMap[row.key as string] = row.value;
+  for (const row of settings.data ?? []) settingsMap[row.key as string] = row.value as JsonValue;
 
   return {
     settings: settingsMap,
