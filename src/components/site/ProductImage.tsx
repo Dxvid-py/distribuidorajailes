@@ -5,7 +5,7 @@ const LABEL_CLIPS: Array<[string, string]> = [
   ["producto-sueter-nino", "polygon(47.2% 18.1%, 52.8% 18.1%, 52.8% 25%, 47.2% 25%)"],
   ["producto-bluson-dama", "polygon(47.2% 22.4%, 52.5% 22.4%, 52.5% 29.2%, 47.2% 29.2%)"],
   ["producto-bermuda-caballero", "polygon(46.6% 16.2%, 53.2% 16.2%, 53.2% 22.4%, 46.6% 22.4%)"],
-  ["producto-bermuda-dama", "polygon(61.1% 16.4%, 69.1% 16.4%, 69.1% 24.2%, 61.1% 24.2%)"],
+  ["producto-bermuda-dama", "polygon(47.2% 16.2%, 52.8% 16.2%, 52.8% 22.4%, 47.2% 22.4%)"],
   ["producto-bermuda-nino", "polygon(46.4% 16.2%, 53.4% 16.2%, 53.4% 23.3%, 46.4% 23.3%)"],
 ];
 
