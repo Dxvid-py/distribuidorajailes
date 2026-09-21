@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 import { ProductImage } from "@/components/site/ProductImage";
 import { Reveal } from "@/components/site/Reveal";
 import { formatCOP, waLink, waProductMessage } from "@/lib/brand";
-import { loadVariants, stockLevel, type CatalogVariant } from "@/lib/catalog";
+import { loadVariants, productColorImage, stockLevel, type CatalogVariant } from "@/lib/catalog";
 import { mergeProducts, mergeVariants } from "@/lib/merge";
 import { getSiteData } from "@/lib/store.functions";
 import { cn } from "@/lib/utils";
@@ -70,7 +70,7 @@ function ProductDetail() {
   const selected = colorVariants.find((v) => (size ? v.size === size : true));
   const price = formatCOP(selected?.price ?? product.priceFrom);
   const wholesale = formatCOP(selected?.wholesale ?? product.wholesaleFrom);
-  const hex = product.colors.find((c) => c.name === color)?.hex;
+  const selectedImage = productColorImage(product.categorySlug, color, product.image);
   const stock = selected?.stock ?? product.stock;
   const level = stockLevel(stock);
 
@@ -86,9 +86,8 @@ function ProductDetail() {
       <div className="mt-8 grid gap-12 lg:grid-cols-[1.1fr_0.9fr]">
         <div className="anim-scale-in">
           <ProductImage
-            src={product.image}
+            src={selectedImage}
             alt={product.name}
-            hex={hex}
             priority
             className="aspect-4/5 w-full"
           />

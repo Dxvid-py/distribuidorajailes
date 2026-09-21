@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 import { ProductImage } from "@/components/site/ProductImage";
 import { Reveal } from "@/components/site/Reveal";
 import { waCustomMessage, waLink } from "@/lib/brand";
-import { APPAREL_CATEGORIES, loadVariants, type CatalogVariant } from "@/lib/catalog";
+import { APPAREL_CATEGORIES, loadVariants, productColorImage, type CatalogVariant } from "@/lib/catalog";
 import { mergeProducts } from "@/lib/merge";
 import { getSiteData } from "@/lib/store.functions";
 import { cn } from "@/lib/utils";
@@ -107,9 +107,8 @@ function Personaliza() {
         <div className="lg:sticky lg:top-24 lg:self-start">
           {product && (
             <ProductImage
-              src={product.image}
+              src={productColorImage(product.categorySlug, color || product.colors[0]?.name, product.image)}
               alt={product.name}
-              hex={product.colors.find((c) => c.name === color)?.hex}
               className="aspect-4/5 w-full"
               priority
             />
