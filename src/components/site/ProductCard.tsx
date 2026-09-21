@@ -2,6 +2,7 @@ import { Link } from "@tanstack/react-router";
 
 import { ProductImage } from "@/components/site/ProductImage";
 import { formatCOP, waLink, waProductMessage } from "@/lib/brand";
+import { productColorImage } from "@/lib/catalog";
 import type { StoreProduct } from "@/lib/merge";
 
 export function ProductCard({ product }: { product: StoreProduct }) {
@@ -16,9 +17,8 @@ export function ProductCard({ product }: { product: StoreProduct }) {
         className="block overflow-hidden bg-sand"
       >
         <ProductImage
-          src={product.image}
+          src={productColorImage(product.categorySlug, product.colors[0]?.name, product.image)}
           alt={product.name}
-          hex={product.colors[0]?.hex}
           className="aspect-4/5"
           imgClassName="transition-transform duration-[900ms] ease-out group-hover:scale-[1.035]"
         />

@@ -1,4 +1,5 @@
 import rawCatalog from "@/data/catalog-index.json";
+import colorImages from "@/data/color-images.json";
 
 import sueterAdulto from "@/assets/producto-sueter-adulto.jpg";
 import sueterNino from "@/assets/producto-sueter-nino.jpg";
@@ -93,6 +94,13 @@ const CATEGORY_IMAGES: Record<string, string> = {
 /** Imagen de catálogo por categoría (fotografía de estudio consistente). */
 export function categoryImage(categorySlug: string) {
   return CATEGORY_IMAGES[categorySlug] ?? sueterAdulto;
+}
+
+/** Fotografía terminada para cada color real; nunca aplica tintes sobre la etiqueta. */
+export function productColorImage(categorySlug: string, color: string | null | undefined, fallback: string) {
+  if (!color) return fallback;
+  const byCategory = colorImages as Record<string, Record<string, string> | undefined>;
+  return byCategory[categorySlug]?.[color] ?? fallback;
 }
 
 /** Categorías que corresponden a prendas de vestir (se priorizan en la tienda). */
